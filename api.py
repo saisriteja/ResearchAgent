@@ -1,3 +1,4 @@
+"""This is an api way to do the pdf reading."""
 import subprocess
 from PyPDF2 import PdfReader
 from langchain.text_splitter import RecursiveCharacterTextSplitter

@@ -1,3 +1,5 @@
+"""This is a streamlit app to do research"""
+
 import subprocess
 import streamlit as st
 from PyPDF2 import PdfReader
